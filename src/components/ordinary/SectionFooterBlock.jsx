@@ -29,7 +29,8 @@ const SectionFooterBlockBox = styled.div`
   gap: 4.93vw;
   background-color: #111111;
   border: 0.07vw solid #ffffff;
-  padding: 6.04vw 0 6.04vw 5.63vw;
+  height: 13.89vw;
+  padding-left: 5.63vw;
 `;
 
 export default SectionFooterBlock;

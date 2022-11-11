@@ -1,5 +1,12 @@
 import React from "react";
-import { Header, InitialSection, About, Portfolio } from "../components";
+import {
+  Header,
+  InitialSection,
+  About,
+  Portfolio,
+  Courses,
+  Advantages
+} from "../components";
 
 const Home = () => {
   return (
@@ -10,6 +17,8 @@ const Home = () => {
       />
       <About />
       <Portfolio />
+      <Courses />
+      <Advantages />
     </div>
   );
 };

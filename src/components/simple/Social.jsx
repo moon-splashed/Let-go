@@ -10,19 +10,19 @@ import behanceHover from "../../assets/img/icons/header/behanceHover.svg";
 
 const list = [
   {
-    id: "1",
+    id: 1,
     name: "telegram",
     imgUrl: telegram,
     imgUrlHover: telegramHover
   },
   {
-    id: "2",
+    id: 2,
     name: "vk",
     imgUrl: vk,
     imgUrlHover: vkHover
   },
   {
-    id: "3",
+    id: 3,
     name: "behance",
     imgUrl: behance,
     imgUrlHover: behanceHover

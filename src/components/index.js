@@ -15,4 +15,6 @@ export { default as InitialSection } from "./ordinary/IniitialSection";
 export { default as SectionFooterBlock } from "./ordinary/SectionFooterBlock";
 export { default as About } from "./ordinary/homePage/About";
 export { default as Portfolio } from "./ordinary/homePage/Portfolio";
+export { default as Courses } from "./ordinary/homePage/Courses";
+export { default as Advantages } from "./ordinary/homePage/Advantages";
 // SMART

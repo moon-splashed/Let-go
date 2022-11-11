@@ -3,23 +3,23 @@ import styled from "styled-components";
 
 const list = [
   {
-    id: "1",
+    id: 1,
     name: "О студии"
   },
   {
-    id: "2",
+    id: 2,
     name: "Вакансии"
   },
   {
-    id: "3",
+    id: 3,
     name: "Портфолио"
   },
   {
-    id: "4",
+    id: 4,
     name: "Отзывы"
   },
   {
-    id: "5",
+    id: 5,
     name: "Услуги"
   }
 ];
