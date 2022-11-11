@@ -5,7 +5,9 @@ import {
   About,
   Portfolio,
   Courses,
-  Advantages
+  Advantages,
+  FAQ,
+  Footer
 } from "../components";
 
 const Home = () => {
@@ -19,6 +21,8 @@ const Home = () => {
       <Portfolio />
       <Courses />
       <Advantages />
+      <FAQ/>
+      <Footer/>
     </div>
   );
 };

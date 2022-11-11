@@ -37,7 +37,7 @@ const Advantages = () => {
         <Line />
         <MiniTitleSection>Преимущества</MiniTitleSection>
         <TitleSection width="53.13vw" marginBottom="3.47vw">
-          Причины сотрудничать с нашей студией
+          Причины сотрудничать с нашей академией
         </TitleSection>
         <List>
           {list.map((item) => (

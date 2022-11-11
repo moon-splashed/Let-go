@@ -11,10 +11,12 @@ export { default as Menu } from "./simple/Menu";
 export { default as Social } from "./simple/Social";
 // ORDINARY
 export { default as Header } from "./ordinary/Header";
+export { default as Footer } from "./ordinary/Footer";
 export { default as InitialSection } from "./ordinary/IniitialSection";
 export { default as SectionFooterBlock } from "./ordinary/SectionFooterBlock";
 export { default as About } from "./ordinary/homePage/About";
 export { default as Portfolio } from "./ordinary/homePage/Portfolio";
 export { default as Courses } from "./ordinary/homePage/Courses";
 export { default as Advantages } from "./ordinary/homePage/Advantages";
+export { default as FAQ } from "./ordinary/FAQ";
 // SMART

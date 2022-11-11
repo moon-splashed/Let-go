@@ -17,7 +17,7 @@ const Header = () => {
 };
 
 const HeaderWrapper = styled.div`
-  height: 8.33vw;
+  height: 6.25vw;
   display: flex;
   align-items: center;
 `;
